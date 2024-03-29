@@ -107,4 +107,4 @@
 #### Other
 - **Hume AI**: Emotionally intelligent AI. [Website](https://demo.hume.ai/)
 
-Please let me know if there are any further additions or modifications you'd like to make!
+

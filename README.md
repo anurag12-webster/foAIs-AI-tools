@@ -1,4 +1,5 @@
-#foAIs Toolbox: A Comprehensive Repository of AI Tools and Resources
+###foAIs Toolbox: A Comprehensive Repository of AI Tools and Resources
+
 ![image](https://github.com/anurag12-webster/foAIs-AI-tools/assets/75563673/7653413f-56e3-4576-997f-76fee5ea278d)
 
 ### Speech from Text

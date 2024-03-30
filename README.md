@@ -10,6 +10,8 @@
 
 ### Chrome Extension
 - **Monica**: Chrome extension with CodeLlama integrated.
+- **IG Comment export tool**: Chrome extension to scrape insatgram comments.[Website](https://chromewebstore.google.com/detail/ig-comment-export-tool/hpfnaodfcakdfbnompnfglhjmkoinbfm)
+
 
 ### Neural Network Visualization
 - **TensorFlow Playground**: Visualize neural networks in TensorFlow. [Website](https://playground.tensorflow.org/)

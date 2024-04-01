@@ -12,6 +12,8 @@
 - **Monica**: Chrome extension with CodeLlama integrated.
 - **IG Comment export tool**: Chrome extension to scrape insatgram comments.[Website](https://chromewebstore.google.com/detail/ig-comment-export-tool/hpfnaodfcakdfbnompnfglhjmkoinbfm)
 
+## Softwares
+- **Warp-Terminal**: Warp is the terminal reimagined with AI and collaborative tools for better productivity.[Website](https://www.warp.dev/?windows_waitlist=true)
 
 ### Neural Network Visualization
 - **TensorFlow Playground**: Visualize neural networks in TensorFlow. [Website](https://playground.tensorflow.org/)

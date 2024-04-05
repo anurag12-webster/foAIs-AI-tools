@@ -4,12 +4,13 @@
 
 ### Speech from Text
 - **Eleven Labs**: Convert speech to text. [Website](https://elevenlabs.io/)
-
+## uncensored chat :  [Website](www.uncensored.chat)
+- ** uncensored.chat: talk to ai without censor.
 ### Stats Visual Understanding
 - **Seeing Theory**: Visualize statistics concepts. [Website](https://seeing-theory.brown.edu)
 
 ### Chrome Extension
-- **Monica**: Chrome extension with CodeLlama integrated.
+- **Monica**: Chrome extension with CodeLlama integrated
 - **IG Comment export tool**: Chrome extension to scrape insatgram comments.[Website](https://chromewebstore.google.com/detail/ig-comment-export-tool/hpfnaodfcakdfbnompnfglhjmkoinbfm)
 
 ## Softwares

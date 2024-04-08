@@ -5,7 +5,8 @@
 ### Speech from Text
 - **Eleven Labs**: Convert speech to text. [Website](https://elevenlabs.io/)
 ## uncensored chat :  
-- ** uncensored.chat: talk to ai without censor.[Website](uncensored.chat)
+- ** uncensored.chat: talk to ai without censor.[Website](http://uncensored.chat/)
+
 ### Stats Visual Understanding
 - **Seeing Theory**: Visualize statistics concepts. [Website](https://seeing-theory.brown.edu)
 

@@ -29,7 +29,7 @@ Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supe
 
 ## AI Learning Path
 - **Generative AI for Beginners**: AI learning path from Microsoft. [GitHub](https://github.com/microsoft/generative-ai-for-beginners)
-
+- ** Datacamp LLM course.**: [Website](https://www.datacamp.com/courses/large-language-models-llms-concepts)
 ## YouTube Courses
 - **GenAI Study Material by Krish Naik**: Free YouTube playlist covering AI topics. [Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 - **LangChain Playlist by Krish Naik**: YouTube playlist covering LangChain. [Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)

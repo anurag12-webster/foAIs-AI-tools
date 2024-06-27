@@ -3,6 +3,18 @@
 ![foAIs Toolbox](https://github.com/anurag12-webster/foAIs-AI-tools/assets/75563673/7653413f-56e3-4576-997f-76fee5ea278d)
 
 Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supercharge your productivity and creativity.
+# Notable Text-to-Speech (TTS) Papers
+
+1. [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558)
+2. [Tacotron 2: Generating Human-like Speech from Text](https://arxiv.org/abs/1712.05884)
+3. [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825)
+4. [VoiceGrad: Gradual Training for Zero-shot Text-to-Speech](https://arxiv.org/abs/2005.07785) 
+5. [Meta Learning for Text-to-Speech Synthesis in Low-Resource Languages](https://arxiv.org/abs/2005.08285).
+6. [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480) 
+7. [Transformer TTS: Text-to-Speech with Self-Attention Networks](https://arxiv.org/abs/1809.08895)
+8. [End-to-End Speech Synthesis Using Tacotron2 and WaveGlow](https://arxiv.org/abs/1905.09263)
+9. [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957)
+10. [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263)
 
 ## Speech from Text
 - **Eleven Labs**: Convert speech to text. [Website](https://elevenlabs.io/)

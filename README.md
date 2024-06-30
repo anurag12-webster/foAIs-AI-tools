@@ -3,6 +3,15 @@
 ![foAIs Toolbox](https://github.com/anurag12-webster/foAIs-AI-tools/assets/75563673/7653413f-56e3-4576-997f-76fee5ea278d)
 
 Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supercharge your productivity and creativity.
+
+# Datasets
+
+- [Gujarati 40 Hours](https://huggingface.co/datasets/dejavugfbh/Gujarati40h/tree/main)
+- [Tamil 200 Hours](https://huggingface.co/datasets/dejavugfbh/Tamil200hours)
+- [Indian TED Talks Chunks](https://huggingface.co/datasets/dejavugfbh/indian_ted_talks_chunks)
+- [HiFiTTS Modified](https://huggingface.co/datasets/dejavugfbh/HiFiTTS-Modified)
+
+
 # Notable Text-to-Speech (TTS) Papers
 
 1. [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558)

@@ -4,13 +4,6 @@
 
 Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supercharge your productivity and creativity.
 
-# Datasets
-
-- [Gujarati 40 Hours](https://huggingface.co/datasets/dejavugfbh/Gujarati40h/tree/main)
-- [Tamil 200 Hours](https://huggingface.co/datasets/dejavugfbh/Tamil200hours)
-- [Indian TED Talks Chunks](https://huggingface.co/datasets/dejavugfbh/indian_ted_talks_chunks)
-- [HiFiTTS Modified](https://huggingface.co/datasets/dejavugfbh/HiFiTTS-Modified)
-
 
 # Notable Text-to-Speech (TTS) Papers
 
@@ -60,6 +53,15 @@ Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supe
 
 ## Hugging Face Repositories
 - **QRCode Diffusion Models**: Repository for QRCode diffusion models. [Hugging Face](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)
+
+# Datasets
+
+- [Gujarati 40 Hours](https://huggingface.co/datasets/dejavugfbh/Gujarati40h/tree/main)
+- [Tamil 200 Hours](https://huggingface.co/datasets/dejavugfbh/Tamil200hours)
+- [Indian TED Talks Chunks](https://huggingface.co/datasets/dejavugfbh/indian_ted_talks_chunks)
+- [HiFiTTS Modified](https://huggingface.co/datasets/dejavugfbh/HiFiTTS-Modified)
+
+
 
 ## Ultimate List of AI Tools
 

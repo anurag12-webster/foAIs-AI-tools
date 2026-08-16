@@ -164,6 +164,7 @@ Welcome to foAIs Toolbox, a curated collection of AI tools and resources to supe
 | ------------- | ------------------------------------------------------------ | ------------------------------------------- |
 | Adobe Sensei  | AI-powered features in Premiere Pro and After Effects        | [Website](https://www.adobe.com/in/sensei/generative-ai.html) |
 | Lumen5        | Convert articles and blog posts into engaging videos         | [Website](https://www.lumen5.com/)          |
+| videos.social | Turn blogs, PDFs, and prompts into editable faceless videos  | [Website](https://videos.social/?utm_source=anurag12-webster-foais-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Magisto       | Create stunning videos with AI-powered editing               | [Website](https://www.magisto.com/)         |
 | VReel         | Enhance footage with professional-quality effects            | [Website](https://predis.ai/instagram-reels-maker/) |
 | Moovly        | Create animated videos and multimedia content                | [Website](https://www.moovly.com/)          |
